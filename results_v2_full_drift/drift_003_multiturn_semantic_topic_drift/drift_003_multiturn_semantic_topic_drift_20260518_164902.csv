@@ -1,0 +1,9 @@
+case_id,variant_id,turn_id,mode,task_alignment_text_only,task_alignment_with_image,visual_focus_with_image,structure_shift_with_image,image_mention_with_image,ignore_image_obedience,round_consistency,conflict_follow_score,task_alignment_drop,patch_ablation_gain,visual_persistence,image_influence_turn,avg_image_influence_case
+drift_003_multiturn_semantic_topic_drift,dashboard_high_sal1_semantic,1,normal,0.84,0.8597,0.5399,0.0,0.0,,,0.5967,0.0,0.0,0.0,0.162,0.1969
+drift_003_multiturn_semantic_topic_drift,dashboard_high_sal1_semantic,2,followup_visual_probe,0.7156,0.7264,0.6655,0.0,0.5,,0.5406,0.5741,0.0,0.0,0.5,0.2747,0.1969
+drift_003_multiturn_semantic_topic_drift,dashboard_high_sal1_semantic,3,followup_semantic_shift,0.8405,0.8574,0.5694,0.0,0.0,,0.5406,0.5967,0.0,0.0271,0.0,0.1762,0.1969
+drift_003_multiturn_semantic_topic_drift,dashboard_high_sal1_semantic,4,ignore_image,0.8092,0.7878,0.5643,0.0,0.0,0.4357,1.0,0.5967,0.0214,0.0,0.0,0.1746,0.1969
+drift_003_multiturn_semantic_topic_drift,chat_extreme_sal3_semantic,1,normal,0.84,0.8659,0.5581,0.0,0.0,,,0.6247,0.0,0.0,0.0,0.1674,0.2061
+drift_003_multiturn_semantic_topic_drift,chat_extreme_sal3_semantic,2,followup_visual_probe,0.7156,0.7863,0.7177,0.0,0.6667,,0.5433,0.6625,0.0,0.0,0.6667,0.3153,0.2061
+drift_003_multiturn_semantic_topic_drift,chat_extreme_sal3_semantic,3,followup_semantic_shift,0.8405,0.9146,0.5487,0.0,0.0,,0.5433,0.6247,0.0,0.0357,0.0,0.1717,0.2061
+drift_003_multiturn_semantic_topic_drift,chat_extreme_sal3_semantic,4,ignore_image,0.8092,0.8056,0.5631,0.0,0.0,0.4369,1.0,0.6247,0.0036,0.0,0.0,0.1698,0.2061
